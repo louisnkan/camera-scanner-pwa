@@ -1,0 +1,27 @@
+
+{
+  "id": "./",
+  "name": "SCANX - Live QR & Barcode Scanner",
+  "short_name": "SCANX",
+  "description": "Fast live QR code and barcode scanner.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#09090B",
+  "theme_color": "#09090B",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
